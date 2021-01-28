@@ -1,9 +1,9 @@
-#Unit 2 Homework - Code Refactor
+# Unit 2 Homework - Code Refactor
 
-##Deployed Project
+## Deployed Project
 []()
 
-##Screenshot
+## Screenshot
 
 ![Screenshot of final project's functionality](\Assets\images\Screenshot.png)
 ##Project Description
